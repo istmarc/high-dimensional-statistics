@@ -1,4 +1,4 @@
-# High-dimensional statistics
+# High-dimensional Statistics and ML
 
 ## Topological entropy
 - [] Metric entropy
