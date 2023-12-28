@@ -4,7 +4,7 @@
 - [] Metric entropy
 
 ## Linear models in high dimensions
-- [] Ridge regression
+- [Ridge regression](linear-models/Ridge%20regression.ipynb)
 - [] Lasso regression
 - [] Group Lasso
 - [] Fused lasso
