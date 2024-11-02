@@ -14,7 +14,7 @@
 - [] High-dimensional variable selection
 
 ## Covariance matrix estimation
-- [] High-dimensional covariance matrix estimation
+- [High-dimensional covariance matrix estimation](covariance-matrix/Hig-dimensional%20covariance%20matrix%20estimation.ipynb)
 
 ## Principal component analysis
 - [] PCA regression
